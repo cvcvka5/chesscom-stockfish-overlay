@@ -2,7 +2,7 @@
 
 Browser console script that runs Stockfish 10 in a Blob Web Worker, polls `<wc-chess-board>` on Chess.com for position changes, and draws an SVG arrow over the best move. Tested against the Magnus Carlsen bot on Chess.com, where it won the game.
 
-![Overlay preview showing Stockfish suggesting Nf3](assets/overlay-preview.jpg)
+![Overlay preview showing Stockfish suggesting Nf3](assets/overlay-preview.png)
 
 Tested against the Magnus Carlsen bot on Chess.com, winning with 89.3% accuracy to 82.4%.
 
